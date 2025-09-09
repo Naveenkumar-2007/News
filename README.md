@@ -60,6 +60,9 @@ OR
 
 "This News is Real 😉"
 
-## website url
-https://news-qzod.onrender.com/docs
+
+🚀 **Live Demo**  
+👉 [Try the App Here](https://news-qzod.onrender.com/docs)  
+
+
 
