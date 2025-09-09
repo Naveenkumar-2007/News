@@ -56,6 +56,9 @@ The dataset consists of **real news** and **fake news** articles.
 ## OUTPUT
 "This News is Fake ⚠️☠️🚨"
 
+## website url
+https://news-qzod.onrender.com/docs
+
 
 OR
 
